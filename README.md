@@ -1,3 +1,8 @@
+## React single page application with an autocomplete field
+
+**Demo**: [https://babruix.github.io/react-app-autocomplete/](https://babruix.github.io/react-app-autocomplete/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
