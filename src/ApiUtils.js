@@ -1,5 +1,5 @@
 const ApiUtils = {
-    BIRDS_JSON_API_URL: '/api/birds.json',
+    BIRDS_JSON_API_URL: 'api/birds.json',
 
     checkStatus: function(response) {
         if (response.status >= 200 && response.status < 300) {
