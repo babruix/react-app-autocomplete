@@ -15,7 +15,9 @@ class App extends Component {
         <p className="App-intro">
             with an autocomplete field:
         </p>
-          <ReduxProviderAutocomplete />
+          <div className="App-autocomplete">
+              <ReduxProviderAutocomplete />
+          </div>
       </div>
     );
   }
